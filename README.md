@@ -13,6 +13,8 @@ Include the script at the bottom of the page's body
   </body>
 ```
 
+![Examples](http://i40.tinypic.com/2ik9sud.jpg)
+
 # License terms
 
 Copyright (c), 2013 Thierry Passeron
