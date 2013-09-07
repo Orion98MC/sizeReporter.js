@@ -25,6 +25,8 @@ Add a bookmark with the following address:
 javascript:(function()%7Bfunction%20callback()%7Balert(document.getElementById('SizeReporter')%3F'You%20may%20drag%20the%20block%20anywhere%20in%20the%20window'%3A'Failed%20to%20load%20SizeReporter!')%7Dvar%20s%3Ddocument.createElement('script')%3Bvar%20p%3Ddocument.location.protocol.split('%3A')%5B0%5D%3Bs.src%3Dp%2B'%3A%2F%2Fraw.github.com%2FOrion98MC%2FsizeReporter.js%2Fmaster%2Fdist%2FsizeReporter.min.js'%3Bif(s.addEventListener)%7Bs.addEventListener('load'%2Ccallback%2Cfalse)%7Delse%20if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()
 ```
 
+Or drag this to your bookmarks: <a href="javascript:(function()%7Bfunction%20callback()%7Balert(document.getElementById('SizeReporter')%3F'You%20may%20drag%20the%20block%20anywhere%20in%20the%20window'%3A'Failed%20to%20load%20SizeReporter!')%7Dvar%20s%3Ddocument.createElement('script')%3Bvar%20p%3Ddocument.location.protocol.split('%3A')%5B0%5D%3Bs.src%3Dp%2B'%3A%2F%2Fraw.github.com%2FOrion98MC%2FsizeReporter.js%2Fmaster%2Fdist%2FsizeReporter.min.js'%3Bif(s.addEventListener)%7Bs.addEventListener('load'%2Ccallback%2Cfalse)%7Delse%20if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()">SizeReporter</a>
+
 Now with this bookmarklet in your browser, you may click on it to automagically launch the script while you are viewing your site and enjoy the little floating block.
 It's so practical don't you think? 
 
