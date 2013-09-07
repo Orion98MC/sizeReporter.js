@@ -18,7 +18,7 @@ You may also find the minified versions in dist/
 Add a bookmark with the following address:
 
 ```js
-javascript:(function()%7Bfunction%20callback()%7Balert(document.getElementById('SizeReporter')%3F'You%20may%20drag%20the%20block%20anywhere%20in%20the%20window'%3A'Failed%20to%20load%20SizeReporter')%7Dvar%20s%3Ddocument.createElement(%22script%22)%3Bs.src%3D%22http%3A%2F%2Fgithub.com%2FOrion98MC%2FsizeReporter.js%2Fraw%2Fmaster%2FsizeReporter.js%22%3Bif(s.addEventListener)%7Bs.addEventListener(%22load%22%2Ccallback%2Cfalse)%7Delse%20if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()
+javascript:(function()%7Bfunction%20callback()%7Balert(document.getElementById('SizeReporter')%3F'You%20may%20drag%20the%20block%20anywhere%20in%20the%20window'%3A'Failed%20to%20load%20SizeReporter!')%7Dvar%20s%3Ddocument.createElement(%22script%22)%3Bs.src%3D%22http%3A%2F%2Fraw.github.com%2FOrion98MC%2FsizeReporter.js%2Fmaster%2Fdist%2FsizeReporter.min.js%22%3Bif(s.addEventListener)%7Bs.addEventListener(%22load%22%2Ccallback%2Cfalse)%7Delse%20if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()
 ```
 
 ## Locally
