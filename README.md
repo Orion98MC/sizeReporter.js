@@ -2,6 +2,10 @@
 
 A "Tiny" Javascript to help you tune your adaptive designs by showing the size of your page and the possible targeted device.
 
+It shows a simple floating block which you can drag anywhere in your browser window like so:
+
+![Examples](http://i40.tinypic.com/2ik9sud.jpg)
+
 # Flavors
 
 There are two scripts:
@@ -31,8 +35,6 @@ Include the script at the bottom of the page's body
     <script src="pathTo/js/sizeReporter.js"></script>
   </body>
 ```
-
-![Examples](http://i40.tinypic.com/2ik9sud.jpg)
 
 # Browsers compatibility
 
