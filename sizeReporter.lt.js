@@ -44,7 +44,7 @@
     div.id = "SizeReporter";
     
     var style = "";
-    style += "position:absolute;";
+    style += "position:fixed;";
     style += "width:150px;height:60px;";
     style += "top:0;left:0;";
     style += "background-color:gray;border:1px solid #222;";
